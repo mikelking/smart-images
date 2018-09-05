@@ -1,0 +1,24 @@
+{
+    "name": "mikelking/smart-images",
+    "description": "WordPress image lazy loading plugin.",
+    "keywords": ["plugin", "lazy loading", "wordpress"],
+    "type": "wordpress-plugin",
+    "homepage": "https://github.com/mikelking/smart-images",
+    "license": "GPL-2",
+    "authors": [
+        {
+            "name": "Olivent, llc.",
+            "email": "info@olivent.com",
+            "homepage": "https://github.com/mikelking/smart-images"
+        },
+        {
+            "name": "Mikel King",
+            "email": "mikel.king@olivent.com",
+            "homepage": "https://github.com/mikelking"
+    }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "composer/installers": "v1.2.0"
+    }
+}
